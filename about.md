@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[https://phdbiz.github.io/](mailto:phdbizmonetize@gmail.com)
+[phdbizmonetize@gmail.com](mailto:phdbizmonetize@gmail.com)
