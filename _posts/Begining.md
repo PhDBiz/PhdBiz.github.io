@@ -1,3 +1,11 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
+# The story behind the scenes
+
+
 Hello friends!
 
 First of all, I am just another guy like you who is suffering from the disease named "THE PhD". 
