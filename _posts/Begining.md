@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blogging Like a Hacker
+published: true
 ---
 
 # The story behind the scenes
