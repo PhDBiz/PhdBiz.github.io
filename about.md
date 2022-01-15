@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+We are PhDBiz, a group of science PhD students educating other friends in the world about how to monetize their talent as a research geek, leading to financial freedom. By the way the picture on the right is totally meaningless and is just to attract your attention.
 
 ### Contact me
 
